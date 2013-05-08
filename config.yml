@@ -1,0 +1,23 @@
+messages:
+  enabled: Coupons enabled!
+  disabled: Coupons disabled!
+  create-config-fail: severeFailed to create default config! <error>
+  save-config-fail: severeFailed to save config! <error>
+  invalid-coupon: warn<couponname> is not a valid coupon
+  validate-coupon: <player> validated the coupon <coupon>
+  add-coupon: <player> added <coupon> to <reciever>
+  gift-coupon: <player> gifted <coupon> to <reciever>
+  remove-coupon: <remover> removed <coupon> from <removee>
+  
+  player:
+    no-permission: \u00A7cYou don't have permission to do that
+    player-and-console-only: You must be either a player or console to use that command.
+    player-only: You must be a player to use that command
+    not-holding-that-coupon: \u00A7cYou aren't holding a coupon by that name
+    validate-coupon: \u00A7aCoupon validated!
+    player-not-found: \u00A7cNo player by the name '<player>' found
+    add-coupon: \u00A7aGave <reciever> <coupon>!
+    recieve-coupon: \u00A7a<sender> gave you <coupon>!
+    gift-coupon: \u00A7aGifted <reciever> <coupon>!
+    recieve-gift-coupon: \u00A7a<sender> gifted you <coupon>!
+    remove-coupon: \u00A7c<remover> removed your coupon '<coupon>'

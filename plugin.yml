@@ -1,0 +1,6 @@
+name: Coupons
+main: me.timothy.coupons.Coupons
+version: 0.9
+commands:
+  coupon:
+    description: /coupon commands
